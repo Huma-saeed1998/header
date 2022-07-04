@@ -1,0 +1,16 @@
+ul>li{
+    list-style: none;
+}
+.w{
+    display: inline-flex;
+    width: 100%;
+}
+ul{
+    display: inline-flex;
+}
+.u{
+    float: left;
+}
+.v{
+    float: right;
+}
